@@ -1,0 +1,14 @@
+C:\Users\fer\source\repos\TPFINAL-CASANOVA\obj\Debug\TPFINAL-CASANOVA.csprojAssemblyReference.cache
+C:\Users\fer\source\repos\TPFINAL-CASANOVA\obj\Debug\TPFINAL_CASANOVA.Form1.resources
+C:\Users\fer\source\repos\TPFINAL-CASANOVA\obj\Debug\TPFINAL_CASANOVA.Properties.Resources.resources
+C:\Users\fer\source\repos\TPFINAL-CASANOVA\obj\Debug\TPFINAL-CASANOVA.csproj.GenerateResource.cache
+C:\Users\fer\source\repos\TPFINAL-CASANOVA\obj\Debug\TPFINAL-CASANOVA.csproj.CoreCompileInputs.cache
+C:\Users\fer\source\repos\TPFINAL-CASANOVA\bin\Debug\TPFINAL-CASANOVA.exe.config
+C:\Users\fer\source\repos\TPFINAL-CASANOVA\bin\Debug\TPFINAL-CASANOVA.exe
+C:\Users\fer\source\repos\TPFINAL-CASANOVA\bin\Debug\TPFINAL-CASANOVA.pdb
+C:\Users\fer\source\repos\TPFINAL-CASANOVA\obj\Debug\TPFINAL-CASANOVA.exe
+C:\Users\fer\source\repos\TPFINAL-CASANOVA\obj\Debug\TPFINAL-CASANOVA.pdb
+C:\Users\fer\source\repos\TPFINAL-CASANOVA\obj\Debug\TPFINAL_CASANOVA.Pacientes.resources
+C:\Users\fer\source\repos\TPFINAL-CASANOVA\obj\Debug\TPFINAL_CASANOVA.Turnos.resources
+C:\Users\fer\source\repos\TPFINAL-CASANOVA\obj\Debug\TPFINAL_CASANOVA.Medicos.resources
+C:\Users\fer\source\repos\TPFINAL-CASANOVA\obj\Debug\TPFINAL_CASANOVA.Recepcionistas.resources
